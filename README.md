@@ -1,2 +1,3 @@
-# prime-fintech-app-u0kc
-Automated issue comment bot repository
+# Prime Fintech App U0Kc
+
+Automated issue comment bot repository.
